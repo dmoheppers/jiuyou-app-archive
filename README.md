@@ -1,2 +1,14 @@
 # jiuyou-app-archive
-HTML page archive and documentation
+
+静态页面保存仓库
+
+本项目用于归档自动化任务输出的页面文件和基础说明。
+
+## 文件记录
+
+- 根目录中的 HTML 文件为发布结果
+- README 用于说明当前仓库用途
+
+## 公开访问
+
+公开访问状态取决于仓库权限、Pages 配置和 GitHub 同步状态。
